@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Fyanz]!
 <p align="center">
   <a href="https://github.com/lowlighter/metrics">
     <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
@@ -10,7 +10,7 @@
 ### 🚀 About Me
 I'm a passionate developer who loves building innovative solutions and exploring new technologies. 
 
-- 🔭 **Current Focus:** Developing [Project Name] / Learning [Skill/Technology].
+- 🔭 **Current Focus:** Developing [SIMS-Medical Automation] / Learning [Cybersecurity, AI Engineering].
 - 💼 **Looking for:** Collaborations on open-source projects or exciting career opportunities.
 - 💬 **Ask me about:** JavaScript, Python, DevOps, or anything tech-related!
 - ⚡ **Fun Fact:** I automate things that take more than 5 seconds of my time.
